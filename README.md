@@ -117,9 +117,9 @@ Then go to [http://localhost:8080](http://localhost:8080)
 ## 🧠 Example Usage
 
 ```
-User: What is the procedure for requesting vacation leave?
+User: What is the role of the human resource function?
 
-Bot: To request vacation leave, submit the form to HR at least 2 weeks in advance. Approval depends on current staffing.
+Bot: The human resource function’s roles include initiating and developing HR policies, implementing and monitoring those policies, and facilitating staff recruitment. Additionally, the function assists in establishing the organization’s structure.
 ```
 
 ---
