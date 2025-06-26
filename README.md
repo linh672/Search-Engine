@@ -1,4 +1,4 @@
-# 🔍 AI-powered Document Search Chatbot
+# 🔍 AI-powered Search Chatbot
 
 This project is a **Flask-based web chatbot** that uses **Retrieval-Augmented Generation (RAG)** to answer user queries from internal documents (indexed using Pinecone). It integrates:
 
